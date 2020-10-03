@@ -5,7 +5,7 @@
 This is portfolio website was created to display my skills as a fullstack develop. React was used to create a single-page application portfolio to share projects I have created or been involved in. 
 
 ## Deployed/Heroku URL
-
+https://asaldana1108.github.io/react-portfolio/
 
 ## Github Repo URL
 https://github.com/asaldana1108/react-portfolio
