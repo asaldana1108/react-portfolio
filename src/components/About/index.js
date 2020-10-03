@@ -1,11 +1,12 @@
 import React from 'react';
+import myPhoto from '../../assets/my-photo/my-photo.jpeg';
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+        <img src={myPhoto} alt="Alvaro is attending a Longhorn football game flashing the Hookem Horns Sign" width="15%"/>
         </div>
         <p>
         Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
