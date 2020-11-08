@@ -6,16 +6,16 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'bored-at-home',
+      description: 'HTML, CSS, Web APIs',
+      link: "https://josephptflanagan.github.io/project-1",
+      repo: "https://github.com/josephptflanagan/project-1"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'movie-lot',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://movielot.herokuapp.com/",
+      repo: "https://github.com/tbreazier/final-countdown"
     },
     {
       name: 'run-buddy',
@@ -23,17 +23,12 @@ function Portfolio() {
       link: "https://github.com",
       repo: "https://github.com"
     },
+  
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'the-reading-nook',
+      description: 'Express, SQL',
+      link: "https://thereadingnook.herokuapp.com/",
+      repo: "https://github.com/asaldana1108/project-2"
     },
   ]);
 
